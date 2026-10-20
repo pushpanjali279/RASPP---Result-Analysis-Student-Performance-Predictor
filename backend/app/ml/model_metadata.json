@@ -1,0 +1,15 @@
+{
+    "regression": {
+        "mae": 6.94,
+        "r2": 0.76
+    },
+    "classification": {
+        "accuracy": 0.86
+    },
+    "features": [
+        "hours_studied",
+        "sleep_hours",
+        "attendance_percent",
+        "previous_scores"
+    ]
+}
